@@ -1,4 +1,5 @@
 p=20;
 q=30;
-sum=p+q;
+r=40;
+sum=p+q+r;
 print(sum);
